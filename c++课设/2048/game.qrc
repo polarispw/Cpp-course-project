@@ -1,0 +1,24 @@
+<RCC>
+    <qresource prefix="/">
+        <file>game/image/2048.png</file>
+        <file>game/image/BGPic.png</file>
+        <file>game/image/blockBGPix.png</file>
+        <file>game/image/Icon.png</file>
+        <file>game/image/block/00.png</file>
+        <file>game/image/block/01.png</file>
+        <file>game/image/block/02.png</file>
+        <file>game/image/block/03.png</file>
+        <file>game/image/block/04.png</file>
+        <file>game/image/block/05.png</file>
+        <file>game/image/block/06.png</file>
+        <file>game/image/block/07.png</file>
+        <file>game/image/block/08.png</file>
+        <file>game/image/block/09.png</file>
+        <file>game/image/block/10.png</file>
+        <file>game/image/block/11.png</file>
+        <file>game/image/block/12.png</file>
+        <file>game/audio/BGM.mp3</file>
+        <file>game/audio/move.mp3</file>
+        <file>game/audio/warning.mp3</file>
+    </qresource>
+</RCC>
